@@ -3,8 +3,8 @@ package com.techreturners
 object App {
 
   def main(args: Array[String]): Unit =
-    println("Hello, Scala developer!")
+    println("Welcome to 21s")
 
-  def someString = "Hi from Tech Returners"
+  
 
 }
